@@ -1,72 +1,50 @@
-# Mcdonald's Advent Calendar Spoiler## 1 December : 
-![1Dec](offers/1.png)  
-![1Dec](barcodes/1.svg)
+# Mcdonald's Advent Calendar Spoiler
+I don't know if these codes are already available.    
+## 1 December : 
+<img src="offers/1.png" height="250">   <img src="barcodes/1.svg" height="200">
 ## 2 December : 
-![2Dec](offers/2.png)  
-![2Dec](barcodes/2.svg)
+<img src="offers/2.png" height="250">   <img src="barcodes/2.svg" height="200">
 ## 3 December : 
-![3Dec](offers/3.png)  
-![3Dec](barcodes/3.svg)
+<img src="offers/3.png" height="250">   <img src="barcodes/3.svg" height="200">
 ## 4 December : 
-![4Dec](offers/4.png)  
-![4Dec](barcodes/4.svg)
+<img src="offers/4.png" height="250">   <img src="barcodes/4.svg" height="200">
 ## 5 December : 
-![5Dec](offers/5.png)  
-![5Dec](barcodes/5.svg)
+<img src="offers/5.png" height="250">   <img src="barcodes/5.svg" height="200">
 ## 6 December : 
-![6Dec](offers/6.png)  
-![6Dec](barcodes/6.svg)
+<img src="offers/6.png" height="250">   <img src="barcodes/6.svg" height="200">
 ## 7 December : 
-![7Dec](offers/7.png)  
-![7Dec](barcodes/7.svg)
+<img src="offers/7.png" height="250">   <img src="barcodes/7.svg" height="200">
 ## 8 December : 
-![8Dec](offers/8.png)  
-![8Dec](barcodes/8.svg)
+<img src="offers/8.png" height="250">   <img src="barcodes/8.svg" height="200">
 ## 9 December : 
-![9Dec](offers/9.png)  
-![9Dec](barcodes/9.svg)
+<img src="offers/9.png" height="250">   <img src="barcodes/9.svg" height="200">
 ## 10 December : 
-![10Dec](offers/10.png)  
-![10Dec](barcodes/10.svg)
+<img src="offers/10.png" height="250">   <img src="barcodes/10.svg" height="200">
 ## 11 December : 
-![11Dec](offers/11.png)  
-![11Dec](barcodes/11.svg)
+<img src="offers/11.png" height="250">   <img src="barcodes/11.svg" height="200">
 ## 12 December : 
-![12Dec](offers/12.png)  
-![12Dec](barcodes/12.svg)
+<img src="offers/12.png" height="250">   <img src="barcodes/12.svg" height="200">
 ## 13 December : 
-![13Dec](offers/13.png)  
-![13Dec](barcodes/13.svg)
+<img src="offers/13.png" height="250">   <img src="barcodes/13.svg" height="200">
 ## 14 December : 
-![14Dec](offers/14.png)  
-![14Dec](barcodes/14.svg)
+<img src="offers/14.png" height="250">   <img src="barcodes/14.svg" height="200">
 ## 15 December : 
-![15Dec](offers/15.png)  
-![15Dec](barcodes/15.svg)
+<img src="offers/15.png" height="250">   <img src="barcodes/15.svg" height="200">
 ## 16 December : 
-![16Dec](offers/16.png)  
-![16Dec](barcodes/16.svg)
+<img src="offers/16.png" height="250">   <img src="barcodes/16.svg" height="200">
 ## 17 December : 
-![17Dec](offers/17.png)  
-![17Dec](barcodes/17.svg)
+<img src="offers/17.png" height="250">   <img src="barcodes/17.svg" height="200">
 ## 18 December : 
-![18Dec](offers/18.png)  
-![18Dec](barcodes/18.svg)
+<img src="offers/18.png" height="250">   <img src="barcodes/18.svg" height="200">
 ## 19 December : 
-![19Dec](offers/19.png)  
-![19Dec](barcodes/19.svg)
+<img src="offers/19.png" height="250">   <img src="barcodes/19.svg" height="200">
 ## 20 December : 
-![20Dec](offers/20.png)  
-![20Dec](barcodes/20.svg)
+<img src="offers/20.png" height="250">   <img src="barcodes/20.svg" height="200">
 ## 21 December : 
-![21Dec](offers/21.png)  
-![21Dec](barcodes/21.svg)
+<img src="offers/21.png" height="250">   <img src="barcodes/21.svg" height="200">
 ## 22 December : 
-![22Dec](offers/22.png)  
-![22Dec](barcodes/22.svg)
+<img src="offers/22.png" height="250">   <img src="barcodes/22.svg" height="200">
 ## 23 December : 
-![23Dec](offers/23.png)  
-![23Dec](barcodes/23.svg)
+<img src="offers/23.png" height="250">   <img src="barcodes/23.svg" height="200">
 ## 24 December : 
-![24Dec](offers/24.png)  
-![24Dec](barcodes/24.svg)
+<img src="offers/24.png" height="250">   <img src="barcodes/24.svg" height="200">
