@@ -48,3 +48,6 @@ I don't know if these codes are already available.
 <img src="offers/23.png" height="250">   <img src="barcodes/23.svg" height="200">
 ## 24 December : 
 <img src="offers/24.png" height="250">   <img src="barcodes/24.svg" height="200">
+## 25 December : 
+<img src="offers/25.png" height="250">   <img src="barcodes/25.svg" height="200">
+### Oh and don't kill me if you work at Mcdonald's
